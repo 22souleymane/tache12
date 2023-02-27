@@ -1,0 +1,24 @@
+.*{
+    background-color: blue;
+}
+.card{
+    background-color: bisque;
+}
+.title{
+    text-align: center;
+    color: darkorange;
+}
+.content{
+    background:fixed;
+}
+h2{
+    text-align: center;
+}
+
+.container .content .card .col .img{
+    display: flex;
+    flex-direction: column;
+}
+.input{
+    text-align: center;
+}
